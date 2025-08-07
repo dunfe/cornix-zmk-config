@@ -21,9 +21,9 @@
 
 include:
   - board: cornix_e73
-    shield: cornix_main_left
-    artifact-name: cornix_left
+    shield: cornix42_left
+    artifact-name: cornix42_left
 
   - board: cornix_e73
-    shield: cornix_right
-    artifact-name: cornix_right
+    shield: cornix42_right
+    artifact-name: cornix42_right
